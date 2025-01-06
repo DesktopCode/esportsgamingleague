@@ -18,3 +18,4 @@ Match Challenges: Accept or pout out open match challenges to other clans.<br>
 Admin Panel: An admin panel to control the script/website.<br><br>
 
 https://www.desktopcode.com<br>
+https://www.desktopcode.com/esportsgl.html
